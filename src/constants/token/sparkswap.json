@@ -10,45 +10,13 @@
   "logoURI": "/images/coins/wbnb.png",
   "keywords": ["sparkswap", "default"],
   "tokens": [
-    {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0x1e33833a035069f42d68D1F53b341643De1C018D",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
-    },
-    {
-      "name": "SparkPoint Token",
-      "symbol": "SRK",
-      "address": "0xe09B8661D80CF24dB230A167969d18B94a5a3266",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/SRK.png"
-    },
-    {
-      "name": "SparkPoint",
-      "symbol": "SRKb",
-      "address": "0xC3440c10c4F36f354eB591B19FafB4906d449B75",
+     {
+      "name": "SugarSwap Token",
+      "symbol": "Sugar",
+      "address": "0x48abef56c518fbe11c529b1053841034a154ac1f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/SRK.png"
-    },
-    {
-      "name": "SparkPoint",
-      "symbol": "bSRK",
-      "address": "0x14b1166aB53A237c8cEaeE2BBc4BbCa200cb7da8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/SRK.png"
-    },
-    {
-      "name": "SparkPoint Fuel",
-      "symbol": "SFUEL",
-      "address": "0x37ac4d6140e54304d77437a5c11924f61a2d976f",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/SFUEL.png"
+      "logoURI": "/images/coins/ownly.png"
     },
     {
       "name": "Ownly",
