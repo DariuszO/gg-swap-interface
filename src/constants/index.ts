@@ -4,7 +4,7 @@ import { AbstractConnector } from '@web3-react/abstract-connector'
 // import { bsc, fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 import { injected, bsc, walletconnect } from '../connectors'
 // TODO
-export const ROUTER_ADDRESS = '0xeB98E6e5D34c94F56708133579abB8a6A2aC2F26'
+export const ROUTER_ADDRESS = '0xA9635AAbd0CC720919901dCE66F0895C61b6f5Bc'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -54,7 +54,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
   [ChainId.MAINNET]: [
     [
-      new Token(ChainId.MAINNET, '0xC3440c10c4F36f354eB591B19FafB4906d449B75', 18, 'SRKb', 'SparkPoint Token'),
+      new Token(ChainId.MAINNET, '0x48abef56c518fbe11c529b1053841034a154ac1f', 18, 'Sugar', 'SugarSwap Token'),
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
     ],
     [BUSD, USDT],
